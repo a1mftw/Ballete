@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\balletes\\balletes\\intermediate\\build\\win64\\unrealeditor\\inc\\balletes\\uht\\balletes.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\balletes\\balletes\\intermediate\\build\\win64\\x64\\balleteseditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "e:\\balletes\\balletes\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\balletes\\definitions.balletes.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

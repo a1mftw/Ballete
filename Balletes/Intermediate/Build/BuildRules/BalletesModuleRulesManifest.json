@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Balletes\\Balletes\\Source\\Balletes\\Balletes.Build.cs",
+		"E:\\Balletes\\Balletes\\Source\\Balletes.Target.cs",
+		"E:\\Balletes\\Balletes\\Source\\BalletesEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}
